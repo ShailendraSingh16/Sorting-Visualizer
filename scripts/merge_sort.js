@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+ 
 
 function Merge()
 {
@@ -72,10 +67,4 @@ function merge_partition(start,end)
         merge_sort(start,mid,end);
     }
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+ 
